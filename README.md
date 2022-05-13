@@ -1,11 +1,6 @@
+   
 
- ** Command Tool Termux **
-       by:BLackWhite
-   Whatsapp : 089629191142
-   Instagram: noprian0_0
-   Youtube. : BLackWhite Team ™
-
-   **cara nuyul kubik**
+     **cara nuyul kubik**
 $ apt update && apt upgrade
 $ pkg install php
 $ pkg install nano
@@ -527,7 +522,3 @@ $ chmod +x main.py
 $ python2 main.py
 
 
-
-- Thanks Untuk TUAN BADUT 
-- Thanks Untuk ThugLife
-*_* Terima Kasih Semua *_*
